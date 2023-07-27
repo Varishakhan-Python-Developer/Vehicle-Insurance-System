@@ -8,6 +8,7 @@ Roles Description
 Admin Role
 Admin is responsible for managing the users, insurance, vehicle details and also search the user details based in name, licence number and plate number.
 
+
 User Role
 User can search other users and view their details.
 
